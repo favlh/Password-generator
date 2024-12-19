@@ -17,8 +17,13 @@ A simple and secure password generator written in Python that generates random a
 1. Clone the repository or download the script file.
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
-   cd password-generator
+   clone the repo
+   
+   cd into the directory
+
+   then
+   
+   python3 usergen.py
 
 2. Cd into script directory and user command "python3 or py then run the scripts"
    
