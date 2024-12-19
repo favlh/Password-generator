@@ -25,8 +25,11 @@ A simple and secure password generator written in Python that generates random a
    Examples Commands: python3 usergen.py
 
    Result: @#,gl_C@:.Deg&s-
-	   ZX(uv5D=+1;2`PS@
-	   xW,{|Z`@)_Zf24c:
-	   %3&\U$1]m]vBg>/
 
-   And done you can use it
+            ZX(uv5D=+1;2`PS@
+
+           xW,{|Z`@)_Zf24c:
+
+           %3&\U$1]m]vBg>/
+
+   And done you can use it now.
