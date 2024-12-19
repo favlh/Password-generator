@@ -27,7 +27,7 @@ A simple and secure password generator written in Python that generates random a
 
 2. Cd into script directory and user command "python3 or py then run the scripts"
    
-   Examples Commands: python3 usergen.py
+   Examples Commands: python3 password.py
 
    Result:
    
